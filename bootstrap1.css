@@ -3,7 +3,7 @@ html {
   width: 100%;
   height: 100%;
   font-family: 'Montserrat', sans-serif;
-  background: url(../images/img3.html.jpg) no-repeat center center ;
+  background: url(IMG_20211122_200141_852.jpg) no-repeat center center ;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -23,7 +23,7 @@ h1 {
   font-size: 3rem;
   color: #fff;
   margin-bottom: 2rem;
-  background-image: url(../images/img3.html.jpg);
+  background-image: url(IMG_20211122_200141_852.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -108,7 +108,7 @@ hr {
   padding: 1rem 2rem;
 }
 .containers{
-  background: url(../images/img3.html.jpg) no-repeat center center ;
+  background: url(IMG_20211122_200141_852.jpg) no-repeat center center ;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -116,7 +116,7 @@ hr {
   
 }
 .third-page{
-  background-image: url(../images/header.jpg);
+  background-image: url(header.jpg);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
